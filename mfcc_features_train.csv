@@ -1,0 +1,11 @@
+,file_feature_name,gender
+0,data/mfcc_train/female4.npy,female
+1,data/mfcc_train/female3.npy,female
+2,data/mfcc_train/female2.npy,female
+3,data/mfcc_train/female1.npy,female
+4,data/mfcc_train/female5.npy,female
+5,data/mfcc_train/male3.npy,male
+6,data/mfcc_train/male5.npy,male
+7,data/mfcc_train/male1.npy,male
+8,data/mfcc_train/male4.npy,male
+9,data/mfcc_train/male2.npy,male
